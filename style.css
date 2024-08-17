@@ -1,0 +1,17 @@
+body {
+    background-color: antiquewhite;
+}
+
+.content {
+background-color: rgb(224, 224, 213);
+}
+
+.have {
+    background-color: bisque;
+    font-weight: bold;
+}
+
+img {
+    max-width: 300px;
+    height: auto;
+}
